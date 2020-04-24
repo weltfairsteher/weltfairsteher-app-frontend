@@ -19,3 +19,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+
+# Kais Temp files
+notes_kai.txt

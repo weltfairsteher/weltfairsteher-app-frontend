@@ -6,3 +6,8 @@
 ````
 sudo npm install -g @vue/cli
 ````
+
+3. Start server
+````
+npm run serve
+````
